@@ -16,6 +16,9 @@ DESCRIPTION:
 •	We run the server
 •	And access our website at localhost port :5000
 
+
+
+
 ![dbcode1](https://github.com/user-attachments/assets/bd016e96-3a2c-4d28-ba11-58156d8ba19b)
 ![login6](https://github.com/user-attachments/assets/5880c88c-583a-4fa7-bba2-c0142712f811)
 ![register1](https://github.com/user-attachments/assets/c528bd1e-e058-4c54-8715-dcdf6a295628)
